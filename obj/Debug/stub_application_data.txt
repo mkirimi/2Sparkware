@@ -1,0 +1,2 @@
+android.app.Application
+x_2SparkWare.x_2SparkWare
